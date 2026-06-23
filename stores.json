@@ -22,5 +22,11 @@
     "logo": "https://raw.githubusercontent.com/autoftgroup-del/tauahhpusing/main/logos/bebek-goreng-haji-slamet.jpg",
     "website": "https://app.mayugoro.com",
     "description": "Paket Akrab -Sedia API transaksi"
+  },
+  {
+    "name": "AryusVPN",
+    "logo": "https://raw.githubusercontent.com/autoftgroup-del/tauahhpusing/main/logos/aryusvpn.png",
+    "website": "https://t.me/VPNByARYUS",
+    "description": "ARYUS VPN - Penyedia VPN Premium dengan protokol SSH, VMESS, VLESS, TROJAN & ZIVPN UDP. Support gaming, streaming, browsing, dan akun otomatis via bot 24 jam."
   }
 ]
