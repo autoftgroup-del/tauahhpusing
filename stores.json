@@ -94,5 +94,11 @@
     "logo": "https://raw.githubusercontent.com/autoftgroup-del/tauahhpusing/main/logos/fanstore-vpnpremium.jpg",
     "website": "https://sewasc.fantunel.my.id/",
     "description": "Sewa Script Tunneling VPS dengan aktivasi real-time! Input IP, pilih masa aktif, bayar instan via QRIS AutoGopay. IP langsung terdaftar otomatis di sistem GitHub, 100% tanpa nunggu admin."
+  },
+  {
+    "name": "Suka Cloud",
+    "logo": "https://raw.githubusercontent.com/autoftgroup-del/tauahhpusing/main/logos/suka-cloud.png",
+    "website": "http://sukacloud.com/",
+    "description": "SukaCloud (sukacloud.com) adalah platform layanan penyedia VPS (Virtual Private Server) dan RDP (Remote Desktop Protocol) murah di Indonesia"
   }
 ]
